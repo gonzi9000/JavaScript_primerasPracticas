@@ -1,0 +1,29 @@
+ [{
+    "titulo": "Repasar JS",
+    "estado": "terminado"
+},
+{
+    "titulo": "Armar aplicaciones de tareas",
+    "estado": "en progreso"
+},
+{
+    "titulo": "Vreak",
+    "estado": "pendiente"
+},
+{
+    "titulo": "practicar logica de programacion",
+    "estado": "pendiente"
+},
+{
+    "titulo": "curso de fullstack basico",
+    "estado": "terminado"
+},
+{
+    "titulo": "curso java",
+    "estado": "terminado"
+},
+{
+    "titulo": "practicar a fondo lo aprendido",
+    "estado": "pendiente"
+}
+]

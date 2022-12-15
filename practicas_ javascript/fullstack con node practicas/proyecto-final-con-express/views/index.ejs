@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <% include partials/head%>
+    <title>GonzaloStore</title>
+</head>
+<header>
+  <% include partials/header%>
+</header>
+<body>
+  <h1>Hola Mundo</h1>
+  <div class="container usuarios-wrapper">
+    <div class="row">
+    
+
+      <% crearUsuario.forEach(function(crarUsuario){ %>
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-header">
+                <%= crearUsuario.nombre %> / <%= crearUsuario.apellido %>
+            </div>
+            <img src="<%= crearUsuario.imagen %>" class="card-img-top">
+            <div class="card-body">
+              <p>
+                <%= crarUsuario.email %>
+              </p>
+            </div>
+            <div class="card-footer">
+              <a href="/eliminar/<%= crearUsuario.id %>" class="btn btn-danger">
+                Eliminar
+              </a>
+            </div>
+          </div>
+        </div>
+        <% })%>
+
+    </div>
+  </div>
+</body>
+
+</html>

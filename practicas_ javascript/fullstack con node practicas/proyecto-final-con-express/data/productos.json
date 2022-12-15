@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "tipoDeProducto": "Memoria Ram 8gb ddr4.jpeg",
+        "imagen": "memoria ram 8gb",
+        "marca": "crucial",
+        "precio": "50000"
+    },
+    {
+        "id": 2,
+        "tipoDeProducto": "Procesador Ryzen 5600g",
+        "imagen": "micro-amd-ryzen-5-5600g-0.jpg",
+        "marca": "AMD",
+        "precio": "55000"
+    },
+    {
+        "id": 3,
+        "tipoDeProducto": "Placa de Video AMD Radeon RX6600 ddr6",
+        "imagen": "video-radeon-rx-6600-8gb-powercolor-fighter-axrx-6600-8gbd6-0.jpg",
+        "marca": "AMD",
+        "precio": "80000"
+    },
+    {
+        "id": 4,
+        "tipoDeProducto": "Fuente Cooler Master 800w 80 plus",
+        "imagen": "fuente pc cooler master 800w 80plus.png",
+        "marca": "Cooler Master",
+        "precio": "30000"
+    },
+    {
+        "id": 5,
+        "tipoDeProducto": "Teclado Redragon Kumara RGB",
+        "imagen": "kumara.jpg",
+        "marca": "Redragon",
+        "precio": "10000"
+    },
+    {
+        "id": 6,
+        "tipoDeProducto": "Joystick PS4",
+        "imagen": "joystick ps4.jpg",
+        "marca": "Sony",
+        "precio": "15000"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ernesto",
+        "apellido": "Fernadez",
+        "email": "ernesto@gmail.com",
+        "telefono": "1145655478",
+        "categoria": "administrador",
+        "imagen": "Ernesto Ciorra.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Alberto",
+        "apellido": "Ramirez",
+        "email": "ramirez@hotmail.com",
+        "telefono": "1598347689",
+        "categoria": "usuario",
+        "imagen": "ramiro-oller.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Mariela",
+        "apellido": "Aguirre",
+        "email": "mariaguirre@gmail.com",
+        "telefono": "2289773267",
+        "categoria": "usuario",
+        "imagen":"Mariela-Eva-Rodriguez-Anfibia.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "Brunella",
+        "apellido": "Olivera",
+        "email": "brune23@hotmail.com",
+        "telefono": "2276884528",
+        "categoria": "administrador",
+        "imagen":"123.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "jazmin",
+        "apellido": "Villanueva",
+        "email": "flordelvalle@mail.com",
+        "telefono": "1185992345",
+        "categoria": "usuario",
+        "imagen":"WCT3IYUGWRCSZDH6WCPZ2S7TKU.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Pablo",
+        "apellido": "Arancibia",
+        "email": "pabloar@hotmail.com",
+        "telefono": "1155567833",
+        "categoria": "usuario",
+        "imagen":"pablo-granados.jpg"
+    }
+]

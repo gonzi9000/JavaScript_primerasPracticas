@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <% include partials/head%>
+    <title>Nuevo Usuario</title>
+</head>
+<body>
+    <header>
+      
+    </header>
+    <h1>Nuevo Usuario</h1>
+    <div class="container p-4">
+        <form  method="POST" action="/nuevoUsuario" class="card card-body">
+       <div class="form-group">
+        <label for="Nombre">Nombre</label>
+        <input type="text" name="nombre" id="nombre" placeholder="Ingresar Nombre" required>
+       </div>
+       <div class="form-group">
+        <label for="Apellido">Apellido</label>
+        <input type="text" name="apellido" id="apellido" placeholder="Ingresar Apellido" required>
+       </div>
+       <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="text" name="email" id="email" placeholder="Ingresar Email" required>
+       </div>
+       <div class="form-group">
+        <label for="Imagen">Imagen</label>
+        <input type="text" name="imagen" id="imagen" placeholder="imagen: https://website.com" required>
+       </div>
+       <input type="submit" value="Nuevo Usuario" class="btn btn-primary">
+    </form>
+    </div>
+    
+</body>
+</html>

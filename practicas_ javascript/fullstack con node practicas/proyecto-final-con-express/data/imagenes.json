@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "imagen": "memoria ram 8gb,jpeg"
+    },
+    {
+         "id": 2,
+         "imagen":"micro-amd-ryzen-5-5600g-0.jpg"
+    },
+    {
+        "id": 3,
+        "imagen": "video-radeon-rx-6600-8gb-powercolor-fighter-axrx-6600-8gbd6-0.jpg"
+    }, 
+    {
+        "id": 4,
+        "imagen": "fuente pc cooler master 800w 80plus.png"
+    },
+    {
+        "id": 5,
+        "imagen": "kumara.jpg"
+    },
+    {
+        "id": 6,
+        "imagen":"joystick ps4.jpg"
+    }
+]

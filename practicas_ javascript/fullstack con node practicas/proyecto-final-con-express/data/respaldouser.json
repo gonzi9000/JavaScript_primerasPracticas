@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ernesto",
+        "apellido": "Fernadez",
+        "email": "ernesto@gmail.com",
+        "imagen": "Ernesto Ciorra.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Alberto",
+        "apellido": "Ramirez",
+        "email": "ramirez@hotmail.com",
+        "imagen": "ramiro-oller.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Mariela",
+        "apellido": "Aguirre",
+        "email": "mariaguirre@gmail.com",
+        "imagen":"Mariela-Eva-Rodriguez-Anfibia.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "Brunella",
+        "apellido": "Olivera",
+        "email": "brune23@hotmail.com",
+        "imagen":"123.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "jazmin",
+        "apellido": "Villanueva",
+        "email": "flordelvalle@mail.com",
+        "imagen":"WCT3IYUGWRCSZDH6WCPZ2S7TKU.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Pablo",
+        "apellido": "Arancibia",
+        "email": "pabloar@hotmail.com",
+        "imagen":"pablo-granados.jpg"
+    }
+]
